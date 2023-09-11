@@ -1,0 +1,1 @@
+this is a new text for line 1 in file2.txt
